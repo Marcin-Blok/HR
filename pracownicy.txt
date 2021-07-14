@@ -1,0 +1,5 @@
+Pracownik: Marcin Blok | 7800.0 | M | 1
+Pracownik: Kuba Bielach | 4300.0 | M | 1
+Pracownik: Anna Sroka | 5200.0 | K | 1
+Pracownik: Paulina Wiśniewska | 6150.0 | K | 2
+Pracownik: Szymon Kowal | 8900.0 | M | 2
