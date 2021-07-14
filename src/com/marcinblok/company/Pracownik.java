@@ -36,12 +36,12 @@ public class Pracownik {
         return dzial;
     }
 
-    boolean czyPracujeWdziale (int dzial){
-        return this.dzial == dzial;
+    boolean czyPracujeWdziale (int ktoryDzial){
+        return getDzial() == ktoryDzial;
     }
 
     @Override
     public String toString() {
-        return "Pracownik{" + imie + " " + nazwisko + " " + placa + " " + plec + " dzial: " + dzial;
+        return "Pracownik: " + getImie() + " " + getNazwisko() + " | " + getPlaca() + " | " + getPlec() + " | " + getDzial();
     }
 }
